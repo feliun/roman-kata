@@ -1,0 +1,19 @@
+{
+  "name": "roman-kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "converter.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^5.1.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Felipe Polo Ruiz <felipe.polo@gmail.com> (https://github.com/feliun)",
+  "license": "ISC"
+}
